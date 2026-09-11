@@ -1,0 +1,23 @@
+{
+  "Dehradun": [
+    { "name": "ISBT Dehradun", "address": "ISBT, Dehradun, Uttarakhand", "latitude": 30.2849, "longitude": 78.0323, "contactNumber": "+911350000001" },
+    { "name": "Railway Station", "address": "Dehradun Railway Station Rd", "latitude": 30.3165, "longitude": 78.0322, "contactNumber": "+911350000002" },
+    { "name": "Clock Tower", "address": "Clock Tower, Rajpur Rd, Dehradun", "latitude": 30.3255, "longitude": 78.0436, "contactNumber": "+911350000003" },
+    { "name": "Rajpur Road", "address": "Rajpur Rd, Dehradun", "latitude": 30.3403, "longitude": 78.0691, "contactNumber": "+911350000004" },
+    { "name": "Dehradun Airport", "address": "Jolly Grant Airport, Dehradun", "latitude": 30.1897, "longitude": 78.1804, "contactNumber": "+911350000005" }
+  ],
+  "Delhi": [
+    { "name": "Connaught Place", "address": "Connaught Place, New Delhi", "latitude": 28.6315, "longitude": 77.2167, "contactNumber": "+911100000001" },
+    { "name": "New Delhi Railway Station", "address": "NDLS, New Delhi", "latitude": 28.6435, "longitude": 77.2197, "contactNumber": "+911100000002" }
+  ],
+  "Goa": [
+    { "name": "Panaji Bus Stand", "address": "Panaji, Goa", "latitude": 15.4909, "longitude": 73.8278, "contactNumber": "+918320000001" },
+    { "name": "Calangute Beach", "address": "Calangute, North Goa", "latitude": 15.5449, "longitude": 73.7517, "contactNumber": "+918320000002" }
+  ],
+  "Manali": [
+    { "name": "Manali Bus Stand", "address": "Mall Rd, Manali", "latitude": 32.2432, "longitude": 77.1892, "contactNumber": "+911900000001" }
+  ],
+  "Jaipur": [
+    { "name": "Jaipur Railway Station", "address": "Jaipur Junction, Jaipur", "latitude": 26.9196, "longitude": 75.7878, "contactNumber": "+01410000001" }
+  ]
+}

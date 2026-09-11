@@ -1,0 +1,12 @@
+[
+  { "name": "Delhi", "state": "Delhi", "description": "The capital city, rich in history and culture.", "popularity": 95 },
+  { "name": "Dehradun", "state": "Uttarakhand", "description": "Gateway to the Himalayas.", "popularity": 80 },
+  { "name": "Rishikesh", "state": "Uttarakhand", "description": "Yoga capital of the world on the Ganges.", "popularity": 88 },
+  { "name": "Jaipur", "state": "Rajasthan", "description": "The Pink City, full of forts and palaces.", "popularity": 90 },
+  { "name": "Manali", "state": "Himachal Pradesh", "description": "Popular hill station in the Himalayas.", "popularity": 92 },
+  { "name": "Goa", "state": "Goa", "description": "Beaches, nightlife, and Portuguese heritage.", "popularity": 97 },
+  { "name": "Mumbai", "state": "Maharashtra", "description": "India's financial capital and city of dreams.", "popularity": 85 },
+  { "name": "Bangalore", "state": "Karnataka", "description": "India's tech hub with a pleasant climate.", "popularity": 83 },
+  { "name": "Hyderabad", "state": "Telangana", "description": "City of Nizams, pearls, and biryani.", "popularity": 78 },
+  { "name": "Chandigarh", "state": "Chandigarh", "description": "India's first planned city.", "popularity": 75 }
+]
